@@ -1,0 +1,7 @@
+{
+    "default": {
+        "max_hp": 100,
+        "speed": 1,
+        "starting_weapon": "pistol"
+    }
+}
