@@ -2,21 +2,21 @@
     "pistol": {
         "damage": 20,
         "range": 10,
-        "magazine": 12,
+        "max_ammo": 12,
         "fire_rate": 2
     },
 
     "shotgun": {
         "damage": 60,
         "range": 5,
-        "magazine": 6,
+        "max_ammo": 6,
         "fire_rate": 1
     },
 
     "rifle": {
         "damage": 30,
         "range": 30,
-        "magazine": 30,
+        "max_ammo": 30,
         "fire_rate": 8
     }
 }
